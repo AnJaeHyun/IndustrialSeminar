@@ -1,3 +1,2 @@
-# IndustrialSeminar
-IndustrialSeminar
-#학교밖은 무섭지 
+#학교밖은 무섭지 않아요
+
